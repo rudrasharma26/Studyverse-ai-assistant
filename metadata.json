@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Assistant",
+  "description": "An intelligent study companion providing structured explanations, summaries, key takeaways, interactive AI-graded quizzes, compare mode, and spaced repetition.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
